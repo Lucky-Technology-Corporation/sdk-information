@@ -1,0 +1,11 @@
+{
+    "description": "SDK Information",
+    "sdkVersion": {
+        "cordova": "1.0.8",
+        "javascript": "1.0.0",
+        "js-node": "1.0.0",
+        "postman": "1.0.0",
+        "pythonsdk": "1.0.0",
+        "unity": "2.1.4"
+    }
+}
