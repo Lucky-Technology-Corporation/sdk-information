@@ -1,8 +1,8 @@
 {
     "description": "SDK Information",
     "sdkVersion": {
-        "cordova": "1.1.3",
-        "javascript": "1.1.3",
+        "cordova": "1.1.4",
+        "javascript": "1.1.4",
         "js-node": "1.0.0",
         "postman": "1.0.0",
         "pythonsdk": "1.0.0",
