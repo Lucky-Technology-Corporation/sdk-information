@@ -1,7 +1,7 @@
 {
     "description": "SDK Information",
     "sdkVersion": {
-        "cordova": "1.1.4",
+        "cordova": "1.2.3",
         "javascript": "1.1.4",
         "js-node": "1.0.0",
         "postman": "1.0.0",
